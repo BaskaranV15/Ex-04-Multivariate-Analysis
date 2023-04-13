@@ -82,9 +82,7 @@ sns.barplot(x=df['Sales'],y=df['Ship Mode'],hue=df['Category'])
 # OUTPUT:
 ![c1](https://user-images.githubusercontent.com/118703522/231639012-ad6d02f3-75e7-4188-9d79-6853d88fc04d.png)
 ![c2](https://user-images.githubusercontent.com/118703522/231639075-01653f66-4ebc-4d8d-863a-0b707bf46aed.png)
-![Uploading c3.png…]()
 ![c4](https://user-images.githubusercontent.com/118703522/231639802-a9b98ad1-4715-45d0-b1ce-8a2c814674a0.png)
-![Uploading c5.png…]()
 ![c6](https://user-images.githubusercontent.com/118703522/231639865-9e8301ca-5dba-4e82-9ead-68879a0e6faa.png)
 
 
